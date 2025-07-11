@@ -20,7 +20,6 @@ Education_counselling/
 ├── app.py                 # Flask web app backend
 └── requirements.txt       # Python dependencies
 
-Based on the files in your [`Education_counselling/mlmodel`](https://github.com/Rhitwika1/Education_counselling/tree/main/mlmodel) folder, here's a breakdown of the **tech stack** and **ML features** used:
 
 ---
 
