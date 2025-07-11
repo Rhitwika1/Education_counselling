@@ -77,7 +77,7 @@ Accuracy is compared across models, and one model is saved as `career.pkl`.
 
 ## Deployment-Ready Format
 
-Once trained, the model is saved using `pickle.dump()` so it can be loaded in your Streamlit app.
+Once trained, the model is saved using `pickle.dump()` so it can be loaded in Streamlit app.
 
 ---
 
